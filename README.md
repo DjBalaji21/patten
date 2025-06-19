@@ -61,7 +61,7 @@ int main()
     
 }       
 
-patten// 04 BOX PATTEN)
+patten// 04 (BOX PATTEN)
 
 #include<iostream>
 using namespace std;
