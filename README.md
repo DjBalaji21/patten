@@ -1,3 +1,4 @@
+patten//01(NORMAL PATTEN WITH STRA)
 #include<iostream>
 using namespace std;
 int main()
